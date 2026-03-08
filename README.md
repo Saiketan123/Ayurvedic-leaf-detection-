@@ -4,12 +4,6 @@
 ## Overview
 This repository contains the implementation of a deep learning-based approach for the automated recognition of Ayurvedic plant species. The project utilizes Convolutional Neural Networks (CNN) and MobileNetV2 architectures to achieve high accuracy in identifying medicinal plants from leaf images.
 
-## Authors
-- Priyanka Vemulakonda - [vemulakonda.priyanka@gmail.com](mailto:vemulakonda.priyanka@gmail.com)
-- Syed Afreen - [afreensd07@gmail.com](mailto:afreensd07@gmail.com)
-- Tanishq Rachamalla - [tanishqrachamalla12@gmail.com](mailto:tanishqrachamalla12@gmail.com)
-
-
 ## Abstract
 Ayurvedic plants are rich sources of therapeutic compounds, yet accurately identifying these plants poses significant challenges. This project introduces a deep learning approach for the automated recognition of Ayurvedic plant species, combining specialized datasets to create a comprehensive collection of over 9000 images. The MobileNetV2 architecture, optimized through depthwise separable convolutions and transfer learning, achieves over 81% testing accuracy, surpassing the CNN model by 13%.
 
